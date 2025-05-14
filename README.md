@@ -46,42 +46,13 @@
 
 ---
 
-## 🚀 Notable Projects
-
-### 🎵 [Promptune – AI-Powered Music Recommendation System](#)
-- Built using *Python*, *Streamlit*, *Flask*, and *YouTube Music API*
-- Processes over *10,000+ song metadata entries* to generate real-time music recommendations
-- Personalized playlists generated for *500+ users*, resulting in *35% boost in user engagement*
-
----
-
-### 📄 [AI Resume Analyzer – ATS Optimization Tool](#)
-- Analyzed *200+ resumes* to improve job match rates using *NLP* and *keyword extraction*
-- Reduced screening time by *50%* and increased matching accuracy by *30%*
-- Built with *Streamlit UI*, resume parser, and AI ranking logic
-
----
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srisheph&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=srisheph&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D%22%20" alt="GitHub Streak" />
-<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisheph&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
-
-## 📚 Certifications & Achievements
-
-- 🧠 *Top 3 in Code-IT* (200+ participants)
-- 🥇 Finalist at *Innohacks 3.0* (AI Automation Project Lead)
-- 📜 15+ Certifications (Google Cloud, Kaggle, AWS, ServiceNow)
-- 🧑‍🏫 Mentored *150+ students* in AI/ML workshops at Kinesis Society
-- 🏅 CGPA: *8.76* and *Academic Excellence Awardee*
 
 ---
 
