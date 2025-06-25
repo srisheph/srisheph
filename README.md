@@ -66,4 +66,4 @@
 ---
 
 ### ⚡ Fun Fact:
-When I'm not experimenting with ML models, I'm either solving DSA problems or mentoring peers in AI.
+When I'm not experimenting with ML models, I'm either solving DSA problems or teaching something.
