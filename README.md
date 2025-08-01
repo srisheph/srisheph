@@ -4,7 +4,7 @@
 ---
 
 🔎 Exploring the intersections of *Machine Learning*, *Mathematics*, and *Software Engineering*  
-📌 Penultimate year student | 🧠 Passionate about *AI/ML*, *Problem Solving*, and *Real-World Applications*
+📌 🧠 Passionate about *AI/ML*, *Problem Solving*, and *Real-World Applications*
 
 ---
 
