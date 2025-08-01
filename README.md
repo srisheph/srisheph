@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shephali Srivastava</h1>
-<h3 align="center">IT undergrad | ML Developer | DSA Enthusiast | Mathematics Lover</h3>
+<h3 align="center">ML Developer | DSA Enthusiast | Mathematics Lover</h3>
 
 ---
 
-🎓 *B.Tech (Information Technology)* @ KIET Group of Institutions, AKTU  
 🔎 Exploring the intersections of *Machine Learning*, *Mathematics*, and *Software Engineering*  
 📌 Penultimate year student | 🧠 Passionate about *AI/ML*, *Problem Solving*, and *Real-World Applications*
 
@@ -58,7 +57,6 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/srisheph/)
 - 👩‍💻 [GitHub](https://github.com/srisheph)
 - 🧮 [LeetCode](https://leetcode.com/u/sheph18/)
 - ✉ srivastavashephali02@gmail.com
